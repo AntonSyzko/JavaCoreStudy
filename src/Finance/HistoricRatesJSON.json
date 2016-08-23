@@ -1,0 +1,1584 @@
+/**/YAHOO.Finance.CurrencyConverter.addConversionRates({
+"list" : {
+"meta" : {
+"type" : "resource-list",
+"start" : 0,
+"count" : 131
+},
+"resources" : [
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "3.672",
+"symbol" : "AED=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "55.525",
+"symbol" : "AFN=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "100.33",
+"symbol" : "ALL=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "6.5046",
+"symbol" : "ARS=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.1246",
+"symbol" : "AUD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.7855",
+"symbol" : "AWG=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.947",
+"symbol" : "BBD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "76.524",
+"symbol" : "BDT=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.4203",
+"symbol" : "BGN=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.37473",
+"symbol" : "BHD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1533.9",
+"symbol" : "BIF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1",
+"symbol" : "BMD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.247",
+"symbol" : "BND=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "6.7764",
+"symbol" : "BOB=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2.3571",
+"symbol" : "BRL=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.99666",
+"symbol" : "BSD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "8.6648",
+"symbol" : "BWP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.957",
+"symbol" : "BZD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.06445",
+"symbol" : "CAD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "905.5",
+"symbol" : "CDF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.8915",
+"symbol" : "CHF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "525.6",
+"symbol" : "CLP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "6.044",
+"symbol" : "CNY=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1929",
+"symbol" : "COP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "491.26",
+"symbol" : "CRC=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.98014",
+"symbol" : "CUP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "80.234",
+"symbol" : "CVE=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "19.848",
+"symbol" : "CZK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "177.72",
+"symbol" : "DJF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "5.4171",
+"symbol" : "DKK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "42.132",
+"symbol" : "DOP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "77.954",
+"symbol" : "DZD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "6.9257",
+"symbol" : "EGP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "18.911",
+"symbol" : "ETB=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.72639",
+"symbol" : "EUR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.8706",
+"symbol" : "FJD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.60311",
+"symbol" : "GBP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2.3509",
+"symbol" : "GHS=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "37.61",
+"symbol" : "GMD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "6975",
+"symbol" : "GNF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "7.7105",
+"symbol" : "GTQ=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "7.75408",
+"symbol" : "HKD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "19.941",
+"symbol" : "HNL=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "5.5394",
+"symbol" : "HRK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "43.001",
+"symbol" : "HTG=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "215.64",
+"symbol" : "HUF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "12158",
+"symbol" : "IDR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "3.46",
+"symbol" : "ILS=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "61.84",
+"symbol" : "INR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1143.3",
+"symbol" : "IQD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "114.76",
+"symbol" : "ISK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "104.84",
+"symbol" : "JMD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.7052",
+"symbol" : "JOD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "105.324",
+"symbol" : "JPY=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "86.4",
+"symbol" : "KES=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "3903.2",
+"symbol" : "KHR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "356.1",
+"symbol" : "KMF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1050.75",
+"symbol" : "KRW=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.2819",
+"symbol" : "KWD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.82028",
+"symbol" : "KYD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "182.44",
+"symbol" : "KZT=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "7862.9",
+"symbol" : "LAK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1476",
+"symbol" : "LBP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "130.725",
+"symbol" : "LKR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "79.05",
+"symbol" : "LRD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "10.381",
+"symbol" : "LSL=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2.5076",
+"symbol" : "LTL=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.5096",
+"symbol" : "LVL=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.2166",
+"symbol" : "LYD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "7.9558",
+"symbol" : "MAD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "12.823",
+"symbol" : "MDL=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2199.5",
+"symbol" : "MGA=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "44.348",
+"symbol" : "MKD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "972.19",
+"symbol" : "MMK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "7.8546",
+"symbol" : "MOP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "286.3",
+"symbol" : "MRO=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "29.01",
+"symbol" : "MUR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "15.21",
+"symbol" : "MVR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "427.73",
+"symbol" : "MWK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "13.0237",
+"symbol" : "MXN=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "3.2757",
+"symbol" : "MYR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "29.71",
+"symbol" : "MZN=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "10.381",
+"symbol" : "NAD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "158.09",
+"symbol" : "NGN=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "25.054",
+"symbol" : "NIO=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "6.06453",
+"symbol" : "NOK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "97.818",
+"symbol" : "NPR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.2182",
+"symbol" : "NZD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.38372",
+"symbol" : "OMR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "0.98364",
+"symbol" : "PAB=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2.7451",
+"symbol" : "PEN=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2.4625",
+"symbol" : "PGK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "44.24",
+"symbol" : "PHP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "104.21",
+"symbol" : "PKR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "3.0135",
+"symbol" : "PLN=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "4511.5",
+"symbol" : "PYG=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "3.6395",
+"symbol" : "QAR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "3.2439",
+"symbol" : "RON=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "83.18",
+"symbol" : "RSD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "32.706",
+"symbol" : "RUB=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "667.25",
+"symbol" : "RWF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "3.75",
+"symbol" : "SAR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "11.32",
+"symbol" : "SCR=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "5.6747",
+"symbol" : "SDG=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "6.429",
+"symbol" : "SEK=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.26401",
+"symbol" : "SGD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.65659",
+"symbol" : "SHP=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "4290",
+"symbol" : "SLL=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1082.1",
+"symbol" : "SOS=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "17827",
+"symbol" : "STD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "8.5913",
+"symbol" : "SVC=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "10.411",
+"symbol" : "SZL=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "32.639",
+"symbol" : "THB=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2.8455",
+"symbol" : "TMT=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1.6393",
+"symbol" : "TND=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2.1464",
+"symbol" : "TRY=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "6.3118",
+"symbol" : "TTD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "29.144",
+"symbol" : "TWD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "1552.3",
+"symbol" : "TZS=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "8.1523",
+"symbol" : "UAH=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2500.6",
+"symbol" : "UGX=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "20.75",
+"symbol" : "UYU=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2208.4",
+"symbol" : "UZS=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "6.2871",
+"symbol" : "VEF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "20835",
+"symbol" : "VND=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "477.31",
+"symbol" : "XAF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "2.6882",
+"symbol" : "XCD=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "477.31",
+"symbol" : "XOF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "86.779",
+"symbol" : "XPF=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "214.75",
+"symbol" : "YER=X",
+"type" : "currency"
+}
+}
+}
+,
+{
+"resource" : {
+"classname" : "Quote",
+"fields" : {
+"date" : "2014-01-02",
+"price" : "10.4726",
+"symbol" : "ZAR=X",
+"type" : "currency"
+}
+}
+}
+
+]
+}
+}
+);

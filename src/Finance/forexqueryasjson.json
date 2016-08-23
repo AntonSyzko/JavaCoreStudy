@@ -1,0 +1,105 @@
+select * from yahoo.finance.xchange where pair in ("EURUSD","GBPUSD")
+
+{
+"query": {
+"count": 2,
+"created": "2016-07-10T08:50:31Z",
+"lang": "en-US",
+"diagnostics": {
+"url": [
+{
+"execution-start-time": "0",
+"execution-stop-time": "1",
+"execution-time": "1",
+"content": "http://www.datatables.org/yahoo/finance/yahoo.finance.xchange.xml"
+},
+{
+"execution-start-time": "5",
+"execution-stop-time": "6",
+"execution-time": "1",
+"content": "http://download.finance.yahoo.com/d/quotes.csv?s=EURUSD=X&f=snl1d1t1ab"
+},
+{
+"execution-start-time": "5",
+"execution-stop-time": "7",
+"execution-time": "2",
+"content": "http://download.finance.yahoo.com/d/quotes.csv?s=GBPUSD=X&f=snl1d1t1ab"
+}
+],
+"publiclyCallable": "true",
+"cache": [
+{
+"execution-start-time": "4",
+"execution-stop-time": "4",
+"execution-time": "0",
+"method": "GET",
+"type": "MEMCACHED",
+"content": "5372a187be7ec34f4e273188d21b0c77"
+},
+{
+"execution-start-time": "4",
+"execution-stop-time": "4",
+"execution-time": "0",
+"method": "GET",
+"type": "MEMCACHED",
+"content": "8251a0ff2fae33ba24cbed4509e06a2a"
+}
+],
+"query": [
+{
+"execution-start-time": "4",
+"execution-stop-time": "6",
+"execution-time": "2",
+"content": "select * from csv where url='http://download.finance.yahoo.com/d/quotes.csv?s=EURUSD=X&f=snl1d1t1ab' and columns='Symbol,Name,Rate,Date,Time,Ask,Bid'"
+},
+{
+"execution-start-time": "5",
+"execution-stop-time": "7",
+"execution-time": "2",
+"content": "select * from csv where url='http://download.finance.yahoo.com/d/quotes.csv?s=GBPUSD=X&f=snl1d1t1ab' and columns='Symbol,Name,Rate,Date,Time,Ask,Bid'"
+}
+],
+"javascript": [
+{
+"execution-start-time": "3",
+"execution-stop-time": "7",
+"execution-time": "4",
+"instructions-used": "30662",
+"table-name": "yahoo.finance.xchange"
+},
+{
+"execution-start-time": "3",
+"execution-stop-time": "8",
+"execution-time": "5",
+"instructions-used": "37324",
+"table-name": "yahoo.finance.xchange"
+}
+],
+"user-time": "9",
+"service-time": "4",
+"build-version": "0.2.31"
+},
+"results": {
+"rate": [
+{
+"id": "EURUSD",
+"Name": "EUR/USD",
+"Rate": "1.1049",
+"Date": "7/8/2016",
+"Time": "10:36pm",
+"Ask": "1.1055",
+"Bid": "1.1049"
+},
+{
+"id": "GBPUSD",
+"Name": "GBP/USD",
+"Rate": "1.2952",
+"Date": "7/8/2016",
+"Time": "10:36pm",
+"Ask": "1.2952",
+"Bid": "1.2952"
+}
+]
+}
+}
+}
